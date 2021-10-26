@@ -1,0 +1,16 @@
+body {
+    background-color: blueviolet;
+    background-image:url(Navi.jpeg);
+    background-attachment: fixed;
+}
+
+div {
+   background-color: chocolate;
+   width: 1000px;
+   height: 1500px;
+   background-image: url(lost\ zoro.png);
+   background-repeat: no-repeat;
+   /*background-position: right top;*/
+   background-position-x: 50px ;
+   background-position-y: 50px ;
+}
